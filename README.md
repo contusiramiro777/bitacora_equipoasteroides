@@ -1,2 +1,2 @@
 # bitacora_equipoasteroides
-bitacoras
+Hoy ayudé a Bruno Paez a hacer los sprites de los asteroides
