@@ -1,2 +1,2 @@
 # bitacora_equipoasteroides
-bitacoras
+Lo que hice hoy fue hacer la normalizacion de la base de datos original para eliminar algunos datos que se repetían, subiendo la original y mi versión en la branch para que mi equipo compare. los cambios fueron cuatro, pasé la dificultad a una tabla aparte (dificultades) porque el texto se repetía en cada partida, eliminé el tiempo de supervivencia porque se puede calcular restando el fin y el inicio, separé la coordenada de impacto en X e Y, y saqué 'partida_id' de choques y esquivos porque ya se sabe por el asteroide
